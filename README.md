@@ -101,7 +101,7 @@
     <div class="glass-card">
         <img src="https://via.placeholder.com/150" alt="Krejit Roy" class="profile-img">
 
-        <h1>Krejit Roy</h1>
+        <h1>Krejit Ghosh</h1>
         <p>Founder of Almytter</p>
 
         <a href="https://almytter.com" class="link-btn"><i class="fas fa-globe"></i> ALMYTTER WEBSITE</a>
@@ -112,6 +112,4 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 
 
-</body>
 
-</html>
